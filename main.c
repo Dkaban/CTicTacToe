@@ -1,8 +1,6 @@
 /**
  * Author: Dustin Kaban
- * StudentID: T00663749
  * Date: January 12th, 2021
- * Class: COMP 2131
  *
  * Class: main.c
  *
